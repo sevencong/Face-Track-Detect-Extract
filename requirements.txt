@@ -1,6 +1,6 @@
 numba
 scikit-learn
 opencv-python
-numpy
+numpy==1.16.2
 filterpy
 tensorflow-gpu
